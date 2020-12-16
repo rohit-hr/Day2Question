@@ -1,7 +1,7 @@
 Enter the start number:
 1
 Enter the end number:
-50
+40
 
 The prime nos. in the given range are:
 2
@@ -16,6 +16,3 @@ The prime nos. in the given range are:
 29
 31
 37
-41
-43
-47
