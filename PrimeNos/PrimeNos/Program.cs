@@ -36,6 +36,7 @@ namespace PrimeNos
 
             }
             Console.ReadLine();
+		Console.WriteLine("reventh");
         }
     }
 }
