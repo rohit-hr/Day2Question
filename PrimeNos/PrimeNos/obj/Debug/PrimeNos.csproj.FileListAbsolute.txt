@@ -1,0 +1,7 @@
+D:\LTI-Training\Specialization\Assignments\PrimeNos\PrimeNos\bin\Debug\PrimeNos.exe.config
+D:\LTI-Training\Specialization\Assignments\PrimeNos\PrimeNos\bin\Debug\PrimeNos.exe
+D:\LTI-Training\Specialization\Assignments\PrimeNos\PrimeNos\bin\Debug\PrimeNos.pdb
+D:\LTI-Training\Specialization\Assignments\PrimeNos\PrimeNos\obj\Debug\PrimeNos.csprojAssemblyReference.cache
+D:\LTI-Training\Specialization\Assignments\PrimeNos\PrimeNos\obj\Debug\PrimeNos.csproj.CoreCompileInputs.cache
+D:\LTI-Training\Specialization\Assignments\PrimeNos\PrimeNos\obj\Debug\PrimeNos.exe
+D:\LTI-Training\Specialization\Assignments\PrimeNos\PrimeNos\obj\Debug\PrimeNos.pdb
