@@ -1,0 +1,21 @@
+Enter the start number:
+1
+Enter the end number:
+50
+
+The prime nos. in the given range are:
+2
+3
+5
+7
+11
+13
+17
+19
+23
+29
+31
+37
+41
+43
+47
